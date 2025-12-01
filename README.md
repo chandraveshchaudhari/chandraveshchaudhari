@@ -6,36 +6,6 @@
 
 ### *Building a Sustainable Future Through Intelligent Automation*
 
-<div style="margin: 20px 0;">
-  <span style="font-size: 2em; animation: float 3s ease-in-out infinite;">🌿</span>
-  <span style="font-size: 1.5em; animation: float 3s ease-in-out 0.5s infinite;">🍃</span>
-  <span style="font-size: 1.8em; animation: float 3s ease-in-out 1s infinite;">🌱</span>
-  <span style="font-size: 1.6em; animation: float 3s ease-in-out 1.5s infinite;">🌾</span>
-  <span style="font-size: 2em; animation: float 3s ease-in-out 2s infinite;">🌿</span>
-</div>
-
-<style>
-@keyframes float {
-  0%, 100% { 
-    transform: translateY(0px) rotate(0deg);
-    opacity: 0.8;
-  }
-  50% { 
-    transform: translateY(-20px) rotate(5deg);
-    opacity: 1;
-  }
-}
-
-@keyframes pulse-green {
-  0%, 100% { 
-    box-shadow: 0 0 5px #00C853, 0 0 10px #00C853;
-  }
-  50% { 
-    box-shadow: 0 0 20px #00C853, 0 0 30px #4CAF50, 0 0 40px #8BC34A;
-  }
-}
-</style>
-
 [![Website](https://img.shields.io/badge/🌐_Website-Visit-00C853?style=for-the-badge)](https://chandraveshchaudhari.github.io/website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chandraveshchaudhari)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandraveshchaudhari@gmail.com)
