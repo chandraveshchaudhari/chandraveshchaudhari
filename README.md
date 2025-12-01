@@ -92,77 +92,88 @@ Actively seeking collaborators for research projects, book contributions, and so
 <table>
 <tr>
 <td width="50%">
+### 🔬 Core Research & Intelligence
 
-### 🧠 Brain-AutoML
-*Intelligent AutoML Framework*
+| Project | Summary | Stack | Focus |
+|--------|---------|-------|-------|
+| 🧠 brain-ai (BMMA) | Multimodal AutoML framework orchestrating feature fusion, model search, and adaptive evaluation for heterogeneous data. | Python • AutoML • Meta-Learning | Multimodal Learning, Research Core |
+| 🎯 hybrid-feature-selection | Hybrid subset selection + importance ranking for explainable ML pipelines (statistical + model-based synergy). | Python • ML • Explainability | Feature Selection, Interpretability |
+| 📈 financial-variable-generation | Automated generation of financial ratios + technical indicators for equity analytics. | Python • Pandas • NumPy | Quant Finance, Data Enrichment |
 
-Automated machine learning system that thinks like a data scientist. Explores feature engineering, model selection, and hyperparameter optimization autonomously.
+### 🎓 Learning, Books & Assessment
 
-**Stack:** Python • Scikit-Learn • AutoML
-**Focus:** Meta-learning, Algorithm Selection
+| Project | Summary | Role |
+|--------|---------|------|
+| 📚 Programming_for_Business | Book repository (code + exercises) bridging business operations and Python automation. | Book |
+| 📚 Machine_Learning_For_Business | Applied ML for business decision intelligence; instructional repo. | Book |
+| 📝 instantgrade | Automated grading of Python notebooks & Excel assignments (rubric + execution + feedback). | EduTech |
+| 📖 Jupyterbook_with_lite_template | Unified template: JupyterLite + JupyterBook + inline interpreter + Colab launchers. | Authoring Infra |
+| 🧪 (Planned) student-ml-projects | Upcoming curated space for student assignment repos (successor to legacy MachineLearningProjects). | Incoming |
 
-</td>
-<td width="50%">
+### 📚 Literature & Research Automation
 
-### 📈 Technical Indicators Library
-*Financial Analysis Toolkit*
+| Project | Summary | Status |
+|--------|---------|--------|
+| 🔄 systematic-reviewpy | Framework to automate systematic review workflows (to be superseded). | Legacy |
+| 🧬 LitSynth (Planned) | RAG + agentic flows for literature triage, synthesis, citation graph intelligence. | Incoming |
 
-Comprehensive library of technical indicators for stock market analysis. Built for researchers and traders who need reliable, efficient calculations.
+### ⚙️ Automation & Agentic Flows
 
-**Stack:** Python • NumPy • Pandas
-**Focus:** Quantitative Finance, Time Series
+| Project | Summary | Stack |
+|--------|---------|-------|
+| 🌐 browser-automationpy | Legacy smart browser workflow launcher to reduce repetitive manual steps. | Selenium |
+| 🗂 research_management_system | Research artifact organization (papers, notes, tagging). | Python |
+| 🧱 python-project-template | Minimal, opinionated Python starter (structure, tooling). | Template |
+| 🧾 resume_website | Personal resume/site generator (TypeScript + modern UI). | Template |
+| 🕸 website | Main personal site codebase. | TypeScript |
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### 🧩 Data & Pipeline Utilities
 
-### 🔄 Systematic Review Automation
-*Research Pipeline Tool*
+| Project | Summary | Focus |
+|--------|---------|-------|
+| 🧪 Data Wrangling Notebooks | Practical notebooks for cleaning, transforming, and structuring messy datasets. | ETL |
+| 🔍 HSFSI Framework (hybrid-feature-selection) | (See above) central to explainable feature curation in high-dimensional spaces. | Explainability |
 
-Automates the tedious process of conducting systematic literature reviews. Because researchers should focus on insights, not data entry.
+---
 
-**Stack:** Python • NLP • Data Processing
-**Focus:** Research Automation, NLP
+## 🗂 Repository Map (Quick Overview)
 
-</td>
-<td width="50%">
+- Core Research: brain-ai • hybrid-feature-selection • financial-variable-generation  
+- Literature Intelligence (Next Gen): LitSynth (planned, replaces systematic-reviewpy)  
+- Education & Books: Programming_for_Business • Machine_Learning_For_Business • instantgrade • Jupyterbook_with_lite_template  
+- Automation & Agentic: browser-automationpy (legacy) • research_management_system • python-project-template • resume_website  
+- Financial Analytics: financial-variable-generation  
+- Explainability: hybrid-feature-selection  
+- Templates & Starter Kits: python-project-template • resume_website • Jupyterbook_with_lite_template  
+- Upcoming Student Hub: student-ml-projects (planned)  
 
-### 🌐 Browser Automation Framework
-*Intelligent Web Automation*
+<details>
+  <summary>🗄 Archived / Legacy (click to expand)</summary>
 
-Smart browser automation for extracting insights from the web. Handles dynamic content, authentication, and complex workflows.
+  - systematic-reviewpy (will be superseded by LitSynth)
+  - browser-automationpy
+  - django-graphql-antd-typescript
+  - MachineLearningProjects (to be replaced by student-ml-projects)
+</details>
 
-**Stack:** Python • Selenium • Web Scraping
-**Focus:** Automation, Data Collection
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### 🔁 Evolution Notes
 
-### 📊 Data Wrangling Notebooks
-*Real-world Data Processing*
+- systematic-reviewpy → LitSynth (RAG + agentic literature synthesis pipeline)
+- MachineLearningProjects → student-ml-projects (structured assignment showcase)
+- HSFSI name clarified as hybrid-feature-selection for consistency
 
-Collection of battle-tested notebooks for cleaning, transforming, and preparing messy real-world data.
+### 🤝 Collaboration Entry Points
 
-**Stack:** Python • Pandas • Data Science
-**Focus:** Data Engineering, ETL
-
-</td>
-<td width="50%">
-
-### 🎯 HSFSI Framework
-*Hybrid Feature Selection*
-
-Novel framework combining statistical and intelligent methods for optimal feature selection in high-dimensional datasets.
-
-**Stack:** Python • ML • Research
-**Focus:** Feature Engineering, Dimensionality Reduction
-
-</td>
-</tr>
-</table>
+| Area | How to Engage |
+|------|---------------|
+| Multimodal AutoML | Contribute new modality adapters to brain-ai |
+| Explainability | Add novel hybrid heuristics to hybrid-feature-selection |
+| Literature Intelligence | Help design agent prompts & citation graph embedding for LitSynth |
+| Education | Provide rubric modules or format adapters for instantgrade |
+| Books | Propose chapter enhancements / real business cases |
+| Templates | Suggest dev workflow improvements (linting, CI presets) |
 
 ---
 
