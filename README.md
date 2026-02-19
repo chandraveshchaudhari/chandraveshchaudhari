@@ -21,7 +21,7 @@
 ## 🗺️ Repository Map (Quick Overview)
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryTextColor": "#1f6feb", "primaryColor": "#f0f6fc", "primaryBorderColor": "#1f6feb", "lineColor": "#1f6feb", "secondBkgColor": "#eaeef2", "secondTextColor": "#0969da", "tertiaryColor": "#f8f9fa"}}}%%
+%%{init: {"theme": "base", "themeVariables": {"primaryTextColor": "#ffffff", "primaryColor": "#FF6B6B", "primaryBorderColor": "#FF6B6B", "lineColor": "#FF6B6B", "secondBkgColor": "#4ECDC4", "secondTextColor": "#ffffff", "tertiaryColor": "#FFE66D", "tertiaryTextColor": "#000000", "tertiaryBorderColor": "#FFE66D"}}}%%
 mindmap
   root((Repositories))
     📚 Books
@@ -39,8 +39,8 @@ mindmap
       LitSynth
     ⚙️ Helper & Dev Templates
       python-project-template
-    🕸 Student Projects Hub
-      Student_Projects_Hub
+    🕸 Projects Hub
+      Student Projects Hub
 ````
 
 ---
