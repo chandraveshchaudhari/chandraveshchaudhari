@@ -39,7 +39,7 @@ mindmap
     ⚙️ Helper & Dev Templates
       python-project-template
     🕸 Student Projects Hub
-      student-ml-projects (planned)
+      Student_Projects_Hub
 ````
 
 ---
@@ -102,7 +102,7 @@ mindmap
 
 | Repository                          | Description                                                                                                                                                                     |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **student-ml-projects** *(planned)* | New repository for student ML submissions and project assignments, replacing legacy [MachineLearningProjects](https://github.com/chandraveshchaudhari/MachineLearningProjects). |
+| [**Student_Projects_Hub**](https://github.com/chandraveshchaudhari/Student_Projects_Hub) | Repository for student ML submissions and project assignments. |
 
 ---
 
@@ -147,7 +147,7 @@ mindmap
 | 📖 **Literature Automation**                | Help design prompts & citation-graph embeddings for [**LitSynth**](https://github.com/chandraveshchaudhari/LitSynth).                                                                                             |
 | 📘 **Educational Content & Books**          | Propose business-case examples or contribute chapters to the book repos.                                                                                                                                          |
 | 🛠 **Templates & Starters**                 | Suggest workflow improvements for [**python-project-template**](https://github.com/chandraveshchaudhari/python-project-template) or [**resume_website**](https://github.com/chandraveshchaudhari/resume_website). |
-| 🧑‍🎓 **Student Projects Hub**              | Mentor or organize contributions for the upcoming **student-ml-projects**.                                                                                                                                        |
+| 🧑‍🎓 **Student Projects Hub**              | Mentor or organize contributions for the **Student_Projects_Hub** — see [Student_Projects_Hub](https://github.com/chandraveshchaudhari/Student_Projects_Hub).                                                                                                                                        |
 
 ---
 
