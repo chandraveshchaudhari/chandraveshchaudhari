@@ -21,6 +21,7 @@
 ## 🗺️ Repository Map (Quick Overview)
 
 ```mermaid
+%%{init: {"themeVariables": {"primaryTextColor": "#00C853"}}}%%
 mindmap
   root((Repositories))
     📚 Books
