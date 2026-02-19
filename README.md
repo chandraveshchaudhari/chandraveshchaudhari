@@ -21,7 +21,7 @@
 ## 🗺️ Repository Map (Quick Overview)
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryTextColor": "#ffffff", "primaryColor": "#FF6B6B", "primaryBorderColor": "#FF6B6B", "lineColor": "#FF6B6B", "secondBkgColor": "#4ECDC4", "secondTextColor": "#ffffff", "tertiaryColor": "#FFE66D", "tertiaryTextColor": "#000000", "tertiaryBorderColor": "#FFE66D"}}}%%
+%%{init: {"theme": "base", "themeVariables": {"primaryTextColor": "#2C3E50", "primaryColor": "#E8F4F8", "primaryBorderColor": "#3498DB", "lineColor": "#3498DB", "secondBkgColor": "#FCE4D6", "secondTextColor": "#C0392B", "tertiaryColor": "#E8F5E9", "tertiaryTextColor": "#1B5E20", "tertiaryBorderColor": "#66BB6A"}}}%%
 mindmap
   root((Repositories))
     📚 Books
