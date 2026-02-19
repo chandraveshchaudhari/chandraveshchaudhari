@@ -23,24 +23,26 @@
 ```mermaid
 %%{init: {"themeVariables": {"primaryTextColor": "#00C853"}}}%%
 mindmap
-  root((Repositories))
-    📚 Books
-      Programming_for_Business
-      Machine_Learning_For_Business
-    🚀 Production & Education Tools
-      instantgrade
-      Jupyterbook_with_lite_template
-      resume_website
-    🤖 Core Research & AI Frameworks
-      brain-ai (BMMA)
-      hybrid-feature-selection
-      financial-variable-generation
-    📖 Literature-Automation (Next Gen)
-      LitSynth
-    ⚙️ Helper & Dev Templates
-      python-project-template
-    🕸 Student Projects Hub
-      Student_Projects_Hub
+  root((Repositories)):::green
+    📚 Books:::green
+      Programming_for_Business:::green
+      Machine_Learning_For_Business:::green
+    🚀 Production & Education Tools:::green
+      instantgrade:::green
+      Jupyterbook_with_lite_template:::green
+      resume_website:::green
+    🤖 Core Research & AI Frameworks:::green
+      brain-ai (BMMA):::green
+      hybrid-feature-selection:::green
+      financial-variable-generation:::green
+    📖 Literature-Automation (Next Gen):::green
+      LitSynth:::green
+    ⚙️ Helper & Dev Templates:::green
+      python-project-template:::green
+    🕸 Student Projects Hub:::green
+      Student_Projects_Hub:::green
+
+  classDef green fill:#ffffff,stroke:#00C853,color:#00C853;
 ````
 
 ---
