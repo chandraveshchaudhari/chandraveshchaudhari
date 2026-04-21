@@ -61,8 +61,10 @@ mindmap
 | Project                                                                                                    | Summary                                                                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [**brain-ai (BMMA)**](https://github.com/chandraveshchaudhari/brain-ai)                                    | A multimodal AutoML framework orchestrating feature-fusion, model search, and adaptive evaluation across heterogeneous data — ideal for research and production.  |
+| [**projects/core-research/brain-ai**](projects/core-research/brain-ai) | Local workspace layout for `brain-ai` containing experiment notebooks, adapters, and deployment recipes. |
 | [**hybrid-feature-selection**](https://github.com/chandraveshchaudhari/hybrid-feature-selection)           | Hybrid subset selection + importance ranking for explainable ML pipelines. Combines statistical and model-based methods for robust feature curation.              |
 | [**financial-variable-generation**](https://github.com/chandraveshchaudhari/financial-variable-generation) | Automated computation of financial ratios and technical indicators from company data and stock history — useful for quantitative finance and analytics pipelines. |
+| [**projects/core-research/research_management_system**](projects/core-research/research_management_system) | Research management & RAG system (LitSynth / research-management-system) with ingestion pipelines, provenance tracking, and citation-graph tools for reproducible literature synthesis. |
 
 ---
 
@@ -88,6 +90,8 @@ mindmap
 | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | [**python-project-template**](https://github.com/chandraveshchaudhari/python-project-template) | Minimal, opinionated Python starter: structure + tooling to begin new projects cleanly.               |
 | [**resume_website**](https://github.com/chandraveshchaudhari/resume_website)                   | Personal resume/website generator built with modern UI (TypeScript), for quick online presence setup. |
+| [**projects/personal-brand/resume_website**](projects/personal-brand/resume_website)           | Local template and configuration for generating rich resumes and portfolio pages from structured YAML/JSON metadata. |
+| [**projects/tools/jupyterbook2_with_lite_template**](projects/tools/jupyterbook2_with_lite_template) | Local JupyterBook + JupyterLite template (v2) with example content, launchers and CI-ready build scripts for distributing interactive books. |
 
 ---
 
@@ -106,6 +110,21 @@ mindmap
 | [**Student_Projects_Hub**](https://github.com/chandraveshchaudhari/Student_Projects_Hub) | Repository for student ML submissions and project assignments. |
 
 ---
+
+## ⚡ Active Development (Current GitHub Work)
+
+These are projects I'm actively developing on GitHub — focused on scalable ML systems, reproducible research, and production-ready tooling that bridge research and applied data science.
+
+| Repository | Status & Focus |
+| --- | --- |
+| [**financial-variable-generation**](https://github.com/chandraveshchaudhari/financial-variable-generation) | Actively expanding dataset pipelines and indicator libraries for quantitative finance research and backtesting. Outputs structured features, handles corporate events, and supports time-aware leakage controls. |
+| [**LitSynth**](https://github.com/chandraveshchaudhari/LitSynth) | Rapidly iterating on RAG + agentic flows for literature triage, citation graph extraction, and automated synthesis for systematic reviews. Great for accelerating research workflows. |
+| [**resume_website**](https://github.com/chandraveshchaudhari/resume_website) | Ongoing work to improve generated resume content, richer project metadata, and exportable PDF/HTML resume for applied roles. |
+| [**brain-ai (BMMA)**](https://github.com/chandraveshchaudhari/brain-ai) | Core repo for multimodal AutoML — adding adapters for new modalities, evaluation suites, and deployment patterns for reproducible experiments. |
+| [**instantgrade**](https://github.com/chandraveshchaudhari/instantgrade) | Enhancing automated evaluation for educational artifacts (notebooks, spreadsheets) with feedback generation and rubric-driven scoring. |
+
+> If you want to collaborate, contribute, or request a demo for any of these, open an issue or reach out on LinkedIn/email — I'm prioritizing contributions that push projects toward production-ready research artifacts.
+
 
 ## 📊 Skills, Tech Stack & Expertise
 
