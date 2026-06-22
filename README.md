@@ -3,6 +3,14 @@
 <img src="data/logo.png" alt="Dr. Chandravesh Chaudhari Logo" style="max-width: 100%; width: 180px; height: auto;"/>
 
 # 🌱 Dr. Chandravesh Chaudhari
+Dr. Chandravesh Chaudhari is an Assistant Professor, researcher, and open-source developer focused on building Scientific Intelligence Systems that help people discover, understand, evaluate, and synthesize knowledge at scale.
+
+His work spans Retrieval-Augmented Generation (RAG), Agentic AI, Multimodal Learning, AI Evaluation, and intelligent research workflows, with a particular emphasis on developing reliable and transparent AI systems for scientific discovery and evidence-based decision-making.
+
+He is the creator of LitSynth and Brain-AI, open-source initiatives that explore how retrieval, reasoning, memory, multimodal understanding, and autonomous agents can be combined to support next-generation research assistance.
+
+Through research, software, and education, he aims to bridge the gap between artificial intelligence and human knowledge creation, advancing systems that augment researchers, educators, and organizations in navigating an increasingly complex information landscape.
+
 
 ### *Building a Sustainable Future Through Intelligent Automation*
 
